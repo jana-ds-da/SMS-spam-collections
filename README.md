@@ -41,4 +41,3 @@ The initial models had good accuracy but lower recall for spam messages, meaning
 * Achieved high accuracy (~98%)
 * Improved recall for spam detection after tuning
 * Logistic Regression performed better after optimization
-
